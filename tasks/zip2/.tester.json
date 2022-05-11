@@ -1,0 +1,9 @@
+{
+    "allow_change": [
+        "*.h"
+    ],
+    "tests": "test_zip2",
+    "solutions": "private",
+    "linter": false,
+    "build_type": ""
+}

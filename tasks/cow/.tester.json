@@ -1,0 +1,9 @@
+{
+    "allow_change": [
+        "cow_string.cpp",
+        "cow_string.h"
+    ],
+    "tests": "test_cow",
+    "solutions": "private",
+    "linter": false
+}
